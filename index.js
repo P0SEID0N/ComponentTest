@@ -2,6 +2,6 @@
 //const fs = require('fs');
 //const PDFDocument = require('pdfkit');
 
-const {runComponentIssues} = require('./js/componentChecker');
+const {runProj} = require('./js/componentChecker');
 
-runComponentIssues();
+runProj();
