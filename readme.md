@@ -6,10 +6,11 @@ Run npm install to install the dependencies.
 
 To run the script, run:
 
-node index.js
+node index.js OR npm start
 
-The output will be located in the "ROOT" folder named something like "DATESTRING_COMPONENTNAME_component_summary.pdf
+The output will be printed to the node console.
 
-Each component encoutered that does NOT have a lead assigned to it will have a PDF printed for it, styled to human readable format. 
+To run tests please run:
+npm test
 
 Please email me if you have any questions: step_henk@hotmail.com
